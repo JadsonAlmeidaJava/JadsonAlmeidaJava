@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Jadson
 
-<!--
-**JadsonAlmeidaJava/JadsonAlmeidaJava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor Java em formação — foco em APIs REST com Spring Boot.
 
-Here are some ideas to get you started:
+🚀 Em transição de carreira, busco minha primeira oportunidade como  
+**Estagiário ou Trainee em Desenvolvimento Java**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tecnologias que estudo atualmente
+- **Java** (POO, Collections, Exceptions)
+- **Spring Boot** (APIs REST, JPA, Hibernate)
+- **SQL**, **MySQL**, **PostgreSQL**
+- **HTML**, **CSS**, **JSP**, **Servlets**
+- **Git** e **GitHub**
+- Apache POI, JSON, JavaMail
+
+---
+
+## 📌 Projetos em destaque
+- **CRUD de Alunos — Java POO**
+- **API REST de Produtos — Spring Boot + JPA + PostgreSQL**
+- **Sistema de Login — JSP + JDBC**
+- **Gerador de Relatórios — Apache POI (Excel)**
+
+---
+
+## 🎯 Objetivo
+Continuar construindo projetos e evoluindo como desenvolvedor até conquistar minha primeira oportunidade na área de TI.
+
+📩 **Contato:**  
+**📧** jadsonoalmeida@gmail.com  
+**📱** (21) 99116-7172
